@@ -1,0 +1,136 @@
+body{
+    margin: 150px;
+}
+
+#head-1 {
+    width: 50%;
+    float: left;
+}
+
+#head-1 img {
+    
+    clear: both;
+    float: left;
+    padding: 5px;
+    
+}
+
+#head-2 img{
+    float: right;
+    padding: 3px;
+}
+
+#line {
+    clear: both;
+    border-bottom: 2px;
+    border-style: dotted;
+    color: gray;
+    padding-top: 20px;
+}
+
+#main-head1
+{
+    width: 100%;
+    padding-top: 50px;
+}
+#main-head1 h1 {
+    font-size: 60px;
+}
+
+#main-head1 p{
+    font-size: 13px;
+    color: gray;
+}
+#main-head2 img{
+    position: absolute;
+    right: 150px;
+    top: 320px;
+    width: 30px;
+    
+}
+
+#banner img
+{
+    width: 100%;
+
+    padding-top: 40px;
+}
+
+#text p
+{
+    color: rgb(68, 68, 68);
+    padding-top: 20px;
+    font-size: 20px;
+}
+
+#list img
+{
+    width: 100%;
+    padding-top: 40px;
+}
+
+#check-1 p{
+    position: relative;
+    left: 150px;
+    bottom: 400px;
+
+}
+#check-2 p{
+    position: relative;
+    left: 650px;
+    bottom: 770px;
+
+}
+#check-1 input
+{
+    display: block;
+    position: relative;
+    left: 100px;
+    bottom: 355px;
+    margin-bottom: 30px;
+}
+
+#check-2 input
+{
+    clear: both;
+    display: block;
+    position: relative;
+    left: 600px;
+    bottom: 723px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+#line2{
+    clear: both;
+    border-bottom: 2px;
+    border-style: dotted;
+    color: gray;
+    padding-top: 20px;
+    margin-top: -700px;
+}
+
+#ven
+{
+    width: 100%;
+    padding-top: 20px;
+}
+#ven img {
+    float: left;
+    padding-right: 20px;
+}
+#ven h3{font-size: 25px; padding-bottom: 10px; width: 80%;}
+#ven p{width: 80%;}
+#ven button {float: right; background-color: rgb(189, 64, 51); padding: 20px 30px 20px 30px; color: wheat;}
+
+
+footer{padding-top: 150px; text-align: center; color: gray;}
+.one{
+    width: 48%;
+    float: left;
+}
+.two{
+    width: 48%;
+    float: right;
+    margin: -1px;
+}
